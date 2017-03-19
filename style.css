@@ -1,5 +1,5 @@
 body {
-background: #BB7A46;
+background: #CCCCCC;
 background-repeat: no-repeat;
 background-position: 0% 25%;
 background-attachment: fixed;
@@ -12,16 +12,16 @@ margin:auto;
 }
 
 A:link {
-	COLOR: #8F5933; TEXT-DECORATION: none;
+	COLOR: #999966; TEXT-DECORATION: none;
 }
 A:visited {
-	COLOR: #8F5933; TEXT-DECORATION: none;
+	COLOR: #999966; TEXT-DECORATION: none;
 }
 A:active {
-	COLOR: #8F5933; TEXT-DECORATION: none;
+	COLOR: #999966; TEXT-DECORATION: none;
 	}
 A:hover {
-	COLOR: #DD861F; TEXT-DECORATION: none;
+	COLOR: #336699; TEXT-DECORATION: none;
 	}
 
 A.footerl:link {
@@ -57,7 +57,7 @@ border: 1px solid #AAAAAA;
 .logo {
 	border-bottom: 5px solid #FDED73;
 	text-align: right;
-	color: #F1A93B;
+	color: #666666;
 	font-size: 24px;
 	padding: 15px;
 }
@@ -111,7 +111,7 @@ border: 1px solid #AAAAAA;
 }
 
 h3 {
-	color: #F1A93B;
+	color: #CC9966;
 	padding: 0;
 	margin: 0 0 5px 0;
 	text-decoration: underline;
@@ -119,7 +119,7 @@ h3 {
 }
 
 h2 {
-	color: #F1A93B;
+	color: #CC9966;
 	padding: 0;
 	margin: 0 0 5px 0;
 	text-decoration: underline;
