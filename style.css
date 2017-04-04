@@ -77,6 +77,14 @@ border: 1px solid #AAAAAA;
 	height: 420px;
 }
 
+.image2 {
+	background: url(group_photo.jpg);
+	background-repeat: no-repeat;
+	background-position: 45% 0%;
+	background-size: contain;
+	height: 380px;
+}
+
 .boxcontain {
 	background-color: #A2A2A3;
 	width: 46%;
