@@ -135,12 +135,21 @@ h2 {
 }
 
 #images {
-	background-image: url(images_tree.jpg);
+	background-image: url(sm.jpg);
 	border: 1px dashed black; 
 	width: 150px; 
 	height: 150px; 
 	float: right; 
+	background-size: contain;
 	margin: 0 5px 5px 0;
+}
+
+.img2 {
+	background: url(pt2.jpg);
+	background-repeat: no-repeat;
+	background-position: 90% 0%;
+	background-size: contain;
+	height: 170px;
 }
 
 .footer {
