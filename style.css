@@ -85,6 +85,14 @@ border: 1px solid #AAAAAA;
 	height: 380px;
 }
 
+.image3 {
+	background: url(20170519.png);
+	background-repeat: no-repeat;
+	background-position: 55% 0%;
+	background-size: contain;
+	height: 380px;
+}
+
 .boxcontain {
 	background-color: #A2A2A3;
 	width: 46%;
