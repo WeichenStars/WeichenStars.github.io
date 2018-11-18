@@ -3,8 +3,12 @@ main:
   - title: "Research"
     url: /research/    
  
-  - title: "aboutme"
+  - title: "About Me"
     url: /aboutme/    
+
+  
+  - title: "Links"
+    url: /links/    
 
   - title: "Misc"
     url: /misc/
