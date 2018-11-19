@@ -16,6 +16,7 @@ To hack this, I use spatial-resolved deep photometry as obtained by the [HST CAN
 
 This is a work in progress. To be updated soon.
   
+To do: attach my talk slide at STScI Galaxy Journal Club.
 
 ## The kinematic state of galaxies beyond local universe
 
