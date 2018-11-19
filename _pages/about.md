@@ -4,9 +4,8 @@ title: "A Quick Sketch"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
-  - /home/
-  - /about.html
   - /about/
+  - /about.html
 ---
 
 I am a third year PhD student in [astronomy and astrophysics](http://physics-astronomy.jhu.edu/){:target="_blank"}  at [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. My current research involves understanding galaxy formation, dust geometry and star formation features using large extragalactic surveys conducted on the Hubble Space Telescope (CANDELS, 3D-HST, etc).
