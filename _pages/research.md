@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Color gradients and z~1 galaxies
 
 Quite different from their local buddies, z~1 galaxies are known to be considerably obscured by dust. In typical cases,more than 80% of the UV photons from star forming regions are blocked (see Wuyts et al. 2011, ApJ, 742, 96). Therefore in order to figure out where stars are born inside these galaxies, which is one of the most important questions of galaxy formation nowadays, dust extinction effect must be appropriately evaluated (the so-called age-dust degeneracy).
