@@ -27,9 +27,8 @@ This is another work in progress. To be updated.
 
 [Here]('https://nbviewer.jupyter.org/github/WeichenStars/WeichenStars.github.io/blob/master/Galaxies_LSS_pencilgalaxy.ipynb?flush_cache=true') is a note about basic galaxy formation theories in a cosmological context I am curently developing. The note follows a minimalism fashion to help people, especially those working on galaxy observation but having little time to work through textbooks, reach to the concenpt of galaxy formation since the primodial CMB fluctuation fast and clearly.
 
-
-Publications
-===========
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
