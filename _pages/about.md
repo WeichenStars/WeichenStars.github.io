@@ -4,7 +4,7 @@ title: "A Quick Sketch"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
-  - /about/
+  - /home/
   - /about.html
 ---
 
