@@ -11,7 +11,7 @@ Publication
 
 Selected Papers (1st author):
 
-  + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ in press (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"})
+  + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ in press (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671))
 
   + W. Wang, S. M. Faber, F.S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404)).
 
