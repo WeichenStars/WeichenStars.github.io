@@ -14,14 +14,14 @@ To hack this, I use spatial-resolved deep photometry as obtained by the [HST CAN
 
 ## Dust attenuation law and galaxy inclination
 
-This is a work in progress. To be updated soon.
+To be updated soon.
   
-To do: attach my talk slide at STScI Galaxy Journal Club.
+Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
 
 ## The kinematic state of galaxies beyond local universe
 
 
-This is another work in progress. To be updated.
+This is another work in progress.
 
 [Here is a note]('https://nbviewer.jupyter.org/github/WeichenStars/WeichenStars.github.io/blob/master/Galaxies_LSS_pencilgalaxy.ipynb?flush_cache=true'){:target="_blank"} about basic galaxy formation theories in a cosmological context I am curently developing. The note follows a minimalism fashion to help people, especially those working on galaxy observation but having little time to work through textbooks, reach to the concenpt of galaxy formation since the primodial CMB fluctuation fast and clearly.
 
