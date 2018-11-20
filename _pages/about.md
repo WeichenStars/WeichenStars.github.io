@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in [astronomy and astrophysics](http://physics-astronomy.jhu.edu/){:target="_blank"}  at [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. My current research focuses on understanding the spatial distribution of multiple physical components that constitute distant galaxies (new-born stars, dust, gas, and dark matter). I use data from available large extragalactic surveys conducted on the Hubble Space Telescope (CANDELS, 3D-HST, etc) and the Keck Telescope.
+I am a third year PhD student in [astronomy and astrophysics](http://physics-astronomy.jhu.edu/){:target="_blank"}  at [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. My current research focuses on understanding the spatial distribution of multiple physical components that constitute distant galaxies (new-born stars, dust, gas, and dark matter). I use data from available large extragalactic surveys that are conducted on the Hubble Space Telescope (CANDELS, 3D-HST, etc) and the Keck Telescope.
 
 I work with [Dr. Susan Kassin](http://www.susankassin.com/){:target="_blank"} at [Space Telescope Science Institute](http://www.stsci.edu){:target="_blank"}. I also keep collaboration with [Prof. Sandy Faber](http://www.ucolick.org/~faber/){:target="_blank"} at [University of California, Santa Cruz](http://www.astro.ucsc.edu/){:target="_blank"}.
 
