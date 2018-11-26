@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Quick Sketch"
+title: "A Quick Sketch - Weichen Wang"
 excerpt: "About me"
 author_profile: false
 redirect_from: 
