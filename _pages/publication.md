@@ -11,7 +11,7 @@ Selected Papers (1st author):
 
   + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ 869, 161 (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"})
 
-  + W. Wang, S. M. Faber, F.S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}).
+  + W. Wang, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}).
 
 
     There are around 95 million Wang's in the world. However, running exact name matching ('Wang, Weichen') and picking up astronomy subfield seem to work well: 
