@@ -18,7 +18,7 @@ To be updated soon.
   
 Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
 
-## The kinematic state of galaxies beyond local universe
+## Kinematics and gas outflow of galaxies beyond local universe
 
 
 This is another work in progress.
