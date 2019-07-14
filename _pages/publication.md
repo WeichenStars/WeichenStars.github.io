@@ -7,7 +7,7 @@ author_profile: false
 Publication
 ===========
 
-Selected Papers (1st author; well not many for now):
+Papers (1st author; well not many for now):
 
   + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ 869, 161 (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"})
 
