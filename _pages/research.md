@@ -22,8 +22,9 @@ Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Cl
 
 
 This is another work in progress.
-
+<!---
 [Here is a note]('https://nbviewer.jupyter.org/github/WeichenStars/WeichenStars.github.io/blob/master/Galaxies_LSS_pencilgalaxy.ipynb?flush_cache=true'){:target="_blank"} about basic galaxy formation theories in a cosmological context I am curently developing. The note follows a minimalism fashion to help people, especially those working on galaxy observation but having little time to work through textbooks, reach to the concenpt of galaxy formation since the primodial CMB fluctuation fast and clearly.
+-->
 
 <!---
   <ul>{% for post in site.publications %}
