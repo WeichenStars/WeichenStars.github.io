@@ -14,9 +14,9 @@ Papers (1st author):
   + W. Wang, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}).
 
 
-    There are around 95 million Wang's in the world. Running exact name matching ('Wang, Weichen') and picking up astronomy subfield work well to "find me out": 
+    There are around 95 million Wang's in the world. But running exact name matching (=author:'Wang, Weichen') and picking up the astronomy subfield seem to work well to pick me out: 
  
-    [Up-to-date list on ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&arxiv_sel=astro-ph&qform=PRE&aut_xct=YES&aut_logic=OR&author=Wang%2C+Weichen&sim_query=YES&start_mon=&start_year=2016&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1){:target="_blank"}
+    [Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D&sort=date%20desc%2C%20bibcode%20desc&unprocessed_parameter=qform&unprocessed_parameter=Relative%20Weights&p_=0){:target="_blank"}
 
 Curriculum Vitae
 ================
