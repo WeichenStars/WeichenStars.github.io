@@ -70,12 +70,14 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Google Analytics
+google_analytics: UA-129439462-1
 
 # Analytics
-analytics:
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-129439462-1"
+#analytics:
+#  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : "UA-129439462-1"
 
 
 # Site Author
