@@ -10,11 +10,11 @@ redirect_from:
 
 This work is in progress.
 
-## The IRX-beta relation and dust geometry of galaxies at z&sim;1
+## The IRX-beta relation and dust distribution for galaxies at z&sim;1
   
 Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
 
-## Measuring the radial distribution of star formation and dust for galaxies at z&sim;1 with color gradients
+## The radial distribution of star formation and dust for galaxies at z&sim;1
 <!---
 Quite different from their local buddies, z&sim;1 galaxies are known to be considerably obscured by dust. In typical cases,more than 80% of the UV photons from star forming regions are blocked (see Wuyts et al. 2011, ApJ, 742, 96). Therefore in order to figure out where stars are born inside these galaxies, which is one of the most important questions of galaxy formation nowadays, dust extinction effect must be appropriately evaluated (the so-called age-dust degeneracy).
 
