@@ -10,6 +10,10 @@ redirect_from:
 
 This work is in progress.
 
+## "Slitlet-Stepping": a novel model to perform multi-object and spatially-resolved spectroscopic observations with JWST
+
+TBW
+
 ## The IRX-beta relation and dust distribution for galaxies at z&sim;1
   
 Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
