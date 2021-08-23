@@ -6,7 +6,15 @@ redirect_from:
   - /astrophysics/
 ---
 
-## Color gradients and spatial-resolved star-formation for z&sim;1 galaxies
+## Galactic winds beyond the local universe
+
+This work is in progress.
+
+## The IRX-beta relation and dust geometry of galaxies at z&sim;1
+  
+Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
+
+## Measuring the radial distribution of star formation and dust for galaxies at z&sim;1 with color gradients
 <!---
 Quite different from their local buddies, z&sim;1 galaxies are known to be considerably obscured by dust. In typical cases,more than 80% of the UV photons from star forming regions are blocked (see Wuyts et al. 2011, ApJ, 742, 96). Therefore in order to figure out where stars are born inside these galaxies, which is one of the most important questions of galaxy formation nowadays, dust extinction effect must be appropriately evaluated (the so-called age-dust degeneracy).
 
@@ -14,16 +22,7 @@ To hack this, I use spatial-resolved deep photometry as obtained by the [HST CAN
 -->
 To be updated soon.
 
-## Using the IRX-beta relation to understand the spatial distribution of dust inside z&sim;1 galaxies
 
-To be updated before long.
-  
-Please find more details from [my talk slides at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
-
-## Kinematics and gas outflows of galaxies beyond the local universe
-
-
-This work is in progress.
 <!---
 [Here is a note]('https://nbviewer.jupyter.org/github/WeichenStars/WeichenStars.github.io/blob/master/Galaxies_LSS_pencilgalaxy.ipynb?flush_cache=true'){:target="_blank"} about basic galaxy formation theories in a cosmological context I am curently developing. The note follows a minimalism fashion to help people, especially those working on galaxy observation but having little time to work through textbooks, reach to the concenpt of galaxy formation since the primodial CMB fluctuation fast and clearly.
 -->
