@@ -10,7 +10,7 @@ redirect_from:
 
 This work is in progress.
 
-## "Slitlet-Stepping": a novel model to perform multi-object and spatially-resolved spectroscopic observations with JWST
+## "Slitlet-Stepping": a novel mode to perform multi-object and spatially-resolved spectroscopic observations with JWST
 
 TBW
 
