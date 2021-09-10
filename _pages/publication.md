@@ -9,12 +9,14 @@ Publication
 
 Papers (1st author):
 
- + W. Wang, S. A. Kassin, S. M. Faber, David C. Koo et al., 2021 to be submitted:
+ + W. Wang, S. A. Kassin, S. M. Faber, David C. Koo et al., 2021 to be submitted:\
  *The Baltimore Oriole’s Nest: Outflows from a Star-Forming Galaxy at z = 1.3*
 
-  + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ 869, 161 (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"})
+  + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ 869, 161 (2018, [arxiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"}):\
+  *Galaxy Inclination and the IRX-β Relation: Effects on UV Star Formation Rate Measurements at Intermediate to High Redshifts*
 
-  + W. Wang, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}).
+  + W. Wang, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arxiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}):\
+  *UVI colour gradients of 0.4<z<1.4 star-forming main-sequence galaxies in CANDELS: dust extinction and star formation profiles*
 
 
     There are around 95 million Wang's in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield seem to work well to pick me out: 
