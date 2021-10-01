@@ -8,7 +8,14 @@ redirect_from:
 
 ## Galactic winds beyond the local universe
 
-This work is in progress.
+> My Ph.D research on galactic winds is motivated by a specific science question: how and where galactic winds are launched and affect the star formation inside star-forming galaxies in the early Universe. My research is based on the data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at z~1 with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
+
+> I led a case study of the winds from a massive star-forming galaxy at $z \sim 1$ from HALO7D (Wang et al. 2021).  We use the Mg II and Fe II lines in the rest-frame ultraviolet as tracers of the cool outflowing gas, and find winds up to 450 km/s toward both the inner and outer regions of the galaxy. Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions.
+
+> What drives the observed extended winds? The spatially extended star formation inside the galaxy is the most probable culprit. In a separate study, we find that spatially extended star formation is common among the massive star-forming galaxies at $z \sim 1$ (Wang et al. 2017).  Therefore, it might be common for massive star-forming galaxies at $z \sim 1$ to have winds launched from across the entire galaxies. Understanding where winds are launched will help us understand in where inside galaxies the stellar feedback is “in action”, and eventually understand what roles galactic winds play in the formation of bulges, disks, and metallicity gradients of distant galaxies.
+
+> Besides the study of massive galaxies, I am currently leading another effort to measure the cool winds from low-mass galaxies at z~ 1. Relevant results will be updated soon.
+
 
 ## "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
@@ -22,13 +29,6 @@ This work is in progress.
 
 > In Wang et al. (2018), we find that the dust attenuation law is dependent on the galaxy inclination, which can lead to systematic errors up to 0.3 dex in the inferred star formation rates. By introducing an inclination correction, our study brings more accurate measurements of star formation rates at $z\sim 1$ and above.  Details about this study can be found from [my talk at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
 
-## The radial distribution of star formation and dust for galaxies at z&sim;1
-<!---
-Quite different from their local buddies, z&sim;1 galaxies are known to be considerably obscured by dust. In typical cases,more than 80% of the UV photons from star forming regions are blocked (see Wuyts et al. 2011, ApJ, 742, 96). Therefore in order to figure out where stars are born inside these galaxies, which is one of the most important questions of galaxy formation nowadays, dust extinction effect must be appropriately evaluated.
-
-To hack this, I use spatial-resolved deep photometry as obtained by the [HST CANDELS](https://candels.ucolick.org/){:target="_blank"} to dissect the colors of z&sim;1 star-forming galaxies (we really count on HST, because most of them are no larger than 1 arc second!). We adapt rest-frame UVJ color diagrams and map color gradients (the colors of galaxies as a function of radius) onto them. Special calibration is designed to infer star formation gradients and dust attenuation gradients based on HST broadband photometry. We also look forward to doing this beyond z&sim;1, now hindered by the lack of high resolution mid-IR imaging necessary to derive rest-frame near-IR bands. But that's where [JWST](https://jwst.stsci.edu/){:target="_blank"} is coming to help hopefully soon. 
--->
-To be updated soon.
 
 <!---
   <ul>{% for post in site.publications %}
