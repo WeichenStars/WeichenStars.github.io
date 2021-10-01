@@ -10,7 +10,7 @@ redirect_from:
 
 This work is in progress.
 
-## "Slitlet-Stepping": a novel mode to perform multi-object and spatially-resolved spectroscopic observations with JWST
+## "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
 I am involved in a technical project to develop a novel observation mode for the JWST NIRSpec instrument. The mode, named ''slitlet stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly (MSA) on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with \emph{JWST}, which has just 5 years of designed mission time. 
 
