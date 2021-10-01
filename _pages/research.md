@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ## 1. Galactic winds beyond the local universe
+<hr style="border:2px solid gray"> </hr>
 
 Galactic winds are the gas outflows ejected from galaxies. My PhD research on galactic winds is motivated by two specific science questions: how and where the winds are launched within galaxies and how they affect the galaxy star formation in the early Universe. I try to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
 
@@ -16,6 +17,8 @@ Galactic winds are the gas outflows ejected from galaxies. My PhD research on ga
 
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
+
+<hr style="border:2px solid gray"> </hr>
 
 I have been involved a study to develop a novel observation mode for the JWST NIRSpec instrument. The mode, named 'Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST. 
 
