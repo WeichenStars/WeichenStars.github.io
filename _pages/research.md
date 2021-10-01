@@ -16,7 +16,7 @@ I have been involved in a technical study to develop a novel observation mode fo
 
 I am currently leading an effort to implement this mode to the upcoming observations of [our approved JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"} (P.I.: Susan Kassin), one of the largest General Observers programs in Cycle 1 for galaxy science. This technical project is developed solely upon the tools and documentations related to JWST that are public, and all the tools we develop from the project will be made publicly available during Cycle 1. 
 
-## The IRX-beta relation and dust distribution for galaxies at z&sim;1
+## The dust attenuation law for galaxies at z&sim;1
 
 Accurate measurements of the galaxy star formation rates are essential for us to understand how galaxies form. However, a significant fraction of the star formation can be obscured by dust. The obscured star formation needs to be inferred indirectly by assuming a certain dust attenuation law if no far-infrared photometry is available, which is often the case for galaxies at high redshifts. 
 
