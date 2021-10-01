@@ -8,7 +8,7 @@ redirect_from:
 
 ## Galactic winds beyond the local universe
 
-> Galactic winds are the gas outflows ejected from galaxies. My Ph.D research on galactic winds is motivated by two specific science questions: how and where the winds are launched within galaxies and how they affect the galaxy star formation in the early Universe. I try to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
+Galactic winds are the gas outflows ejected from galaxies. My Ph.D research on galactic winds is motivated by two specific science questions: how and where the winds are launched within galaxies and how they affect the galaxy star formation in the early Universe. I try to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ from HALO7D (Wang et al. 2021). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that the spatially extended star formation inside the galaxy is the most probable driver of the observed extended winds. 
 
@@ -23,7 +23,7 @@ redirect_from:
 
 ## The dust attenuation law for galaxies at z&sim;1
 
-> Accurate measurements of the galaxy star formation rates are essential for us to understand how galaxies form. However, a significant fraction of the star formation can be obscured by dust. The obscured star formation needs to be inferred indirectly by assuming a certain dust attenuation law if no far-infrared photometry is available, which is often the case for galaxies at high redshifts. 
+Accurate measurements of the galaxy star formation rates are essential for us to understand how galaxies form. However, a significant fraction of the star formation can be obscured by dust. The obscured star formation needs to be inferred indirectly by assuming a certain dust attenuation law if no far-infrared photometry is available, which is often the case for galaxies at high redshifts. 
 
 > In Wang et al. (2018), we find that the dust attenuation law is dependent on the galaxy inclination, which can lead to systematic errors up to 0.3 dex in the inferred star formation rates. By introducing an inclination correction, our study brings more accurate measurements of star formation rates at $z\sim 1$ and above.  Details about this study can be found from [my talk at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
 
