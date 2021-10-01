@@ -8,7 +8,7 @@ redirect_from:
 
 ## Galactic winds beyond the local universe
 
-> My Ph.D research on galactic winds is motivated by a specific science question: how and where galactic winds are launched and affect the star formation inside star-forming galaxies in the early Universe. I try to answer this question using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
+> Galactic winds are the gas outflows ejected from galaxies. My Ph.D research on galactic winds is motivated by two specific science questions: how and where the winds are launched within galaxies and how they affect the galaxy star formation in the early Universe. I try to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph. 
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ from HALO7D (Wang et al. 2021). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. The spatially extended star formation inside the galaxy is the most probable drive of the observed extended winds. 
 
