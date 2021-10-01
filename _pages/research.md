@@ -12,9 +12,7 @@ redirect_from:
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ from HALO7D (Wang et al. 2021). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. The spatially extended star formation inside the galaxy is the most probable drive of the observed extended winds. 
 
-> It might be common for the massive star-forming galaxies at this cosmic epoch to have winds launched from across the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (Wang et al. 2017). Studying where the winds are launched for a larger galaxy sample will help us better understand where the stellar feedback is directly “in action” and what roles galactic winds play in the formation of bulges, disks, and metallicity gradients of distant galaxies.
-
-> Besides the study of massive galaxies, I am currently leading another effort to measure the cool winds from low-mass galaxies at $z \sim 1$. Relevant detailed will be updated soon.
+> It might be common for the massive star-forming galaxies at this cosmic epoch to have winds launched from across the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (Wang et al. 2017). Studying where the winds are launched for a larger galaxy sample in the future will help us better understand where the stellar feedback is directly “in action” and what roles galactic winds play in the formation of bulges, disks, and metallicity gradients of distant galaxies.
 
 
 ## "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
