@@ -6,10 +6,10 @@ main:
   - title: "Research"
     url: /research/       
     
-  - title: "Publications and CV"
+  - title: "Publications & CV"
     url: /publication/
 
-  - title: "MISC"
+  - title: "Outreach & More"
     url: /misc/
 
   # - title: "Blog Posts"
