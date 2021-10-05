@@ -8,13 +8,13 @@ redirect_from:
 
 ## 1. Galactic winds beyond the local universe
 
-Galactic winds are the outflowing gas ejected from galaxies, and they are considered to have a prominent impact on galaxy formation. However, much is to be known about the origin and detaild properties of winds, especially in the early Universe. 
+Galactic winds are the outflowing gas ejected from galaxies, and they are considered to have a prominent impact on galaxy formation. However, much is to be known from observations about their origin and detailed physical properties, especially in the early Universe. 
 
-My PhD research on galactic winds is motivated by a science question: how and where the winds are occur within galaxies. I intend to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
+My PhD research on galactic winds is motivated by a science question: how and where the winds occur within galaxies in the early Universe. I try to answer the questions using the observation data from a Keck spectroscopic survey program HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 star-forming galaxies at $z \sim 1$ with deep exposures on the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ (Wang et al. 2021). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that the spatially extended star formation inside the galaxy is the most probable driver of the observed extended winds. 
 
-> It might be common for the massive star-forming galaxies at this cosmic epoch to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (Wang et al. 2017). Studying where the winds are launched for a larger sample of galaxies in the future will help us better understand where the stellar feedback is directly “in action” and what roles galactic winds play in the formation of bulges, disks, and metallicity gradients of distant galaxies.
+> It might be common for the massive star-forming galaxies at this cosmic epoch to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (Wang et al. 2017). Studying the winds of a larger sample of galaxies in the future will help us better understand where the stellar feedback is directly “in action” and what roles galactic winds play in the formation of bulges, disks, and metallicity gradients of distant galaxies.
 
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
