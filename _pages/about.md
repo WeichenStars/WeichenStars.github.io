@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year astronomy PhD student at the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. My research has been focused on the distribution of several baryonic components that constitute distant galaxies, i.e., new-born stars, dust, and gas. 
+I am a final-year astronomy Ph.D. student at the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. My research has been focused on the distribution of several baryonic components that constitute distant galaxies, i.e., new-born stars, dust, and gas. 
 
 For my thesis, I study the cool gas outflows (a.k.a. winds) from the galaxies in the early Universe. I try to understand where the outflows are launched and how they affect galaxy formation. The data I use come from the Keck telescope in Hawaii (HALO7D), the Hubble Space Telescope (CANDELS), and, in the near future, the James Webb Space Telescope (see [our cycle-1 proposal](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}).
 
