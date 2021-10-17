@@ -8,9 +8,9 @@ redirect_from:
 
 ## 1. Galactic winds beyond the local universe
 
-Galactic winds are the outflowing gas ejected from galaxies, and they are considered to have a prominent impact on galaxy formation. However, much is to be known from observations about their origin and properties, especially in the early Universe. 
+Galactic winds are the outflowing gas ejected from galaxies. They are considered to have a prominent impact on galaxy formation, especially in the early Universe. However, much is to be known from observations about their origins and properties. 
 
-My Ph.D. research on galactic winds is motivated by one question: How and where do the winds occur within galaxies in the early Universe? I try to answer the question using the data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
+My thesis research is motivated by one question: How and where do galactic winds occur within galaxies in the early Universe? I try to answer the question using the data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ (Wang et al. 2021). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. 
 
@@ -19,7 +19,7 @@ My Ph.D. research on galactic winds is motivated by one question: How and where 
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
-I have been involved in a study to develop a novel observation mode for the JWST NIRSpec instrument. The mode, named 'Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST. 
+I have been involved in a study to develop a novel observation mode for the JWST NIRSpec instrument. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST. 
 
 I am currently co-leading an effort to implement this mode to the upcoming observations of [our approved JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"} (PI: Susan Kassin), one of the largest General Observers programs in Cycle 1 for galaxy science. The project is developed solely upon the tools and documentations that are public, and all the tools we develop from the project will be made public during Cycle 1. 
 
