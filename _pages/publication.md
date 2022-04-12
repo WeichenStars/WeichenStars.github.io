@@ -9,7 +9,7 @@ Publication
 
 Papers (1st author):
 
- + W. Wang, S. A. Kassin, S. M. Faber, D. C. Koo et al. (2021, [arXiv: 2109.12133](https://arxiv.org/abs/2109.12133){:target="_blank"}):\
+ + W. Wang, S. A. Kassin, S. M. Faber, D. C. Koo et al. ApJ in press (2022, [arXiv: 2109.12133](https://arxiv.org/abs/2109.12133){:target="_blank"}):\
  *The Baltimore Oriole’s Nest: Cool Winds from the Inner and Outer Parts of a Star-Forming Galaxy at z = 1.3*
 
   + W. Wang, S. A. Kassin, C. Pacifici et al. ApJ 869, 161 (2018, [arXiv:1811.03671](https://arxiv.org/abs/1811.03671){:target="_blank"}):\
