@@ -8,9 +8,9 @@ redirect_from:
 
 ## 1. Galactic winds beyond the local universe
 
-Galactic winds are the outflowing gas ejected from galaxies. They are considered to have a prominent impact on galaxy formation especially in the early Universe. However, much has yet to be known regarding the origins and properties of these winds. 
+Galactic winds are the outflowing gas ejected from galaxies. They are considered to have a prominent impact on galaxy formation especially in the early Universe. However, much has yet to be known regarding the origins and physical properties of these winds. 
 
-My thesis research is motivated by one question: How and where do galactic winds occur within galaxies in the early Universe? I aim to answering the question using the spectroscopic data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
+My thesis research is motivated by one question: How and where do galactic winds occur within galaxies in the early Universe? I aim at answering the question using the spectroscopic data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
 
 > I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ (Wang et al. 2022). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. 
 
