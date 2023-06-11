@@ -6,7 +6,7 @@ redirect_from:
   - /astrophysics/
 ---
 
-## 1. The cosmic webs and their connections with galaxy formation
+## 1. The cosmic web and galaxy formation
 
 TBW (c.f. the JWST program links).
 
