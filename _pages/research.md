@@ -6,7 +6,7 @@ redirect_from:
   - /astrophysics/
 ---
 
-## 1. The cosmic web and galaxy formation
+## 1. Probing galaxy formation in the cosmic web
 
 TBW (c.f. the JWST program links).
 
