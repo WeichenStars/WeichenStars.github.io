@@ -21,7 +21,7 @@ Papers (1st author):
 
     There are around 95 million Wang's in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield seem to work well to pick me out: 
  
-    [Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D&sort=date%20desc%2C%20bibcode%20desc&unprocessed_parameter=qform&unprocessed_parameter=Relative%20Weights&p_=0){:target="_blank"}
+    [Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=(%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D)%20OR%20(author%3A%22%5Ede%20Beer%22%20AND%20author%3A%22Wang%2C%20W%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target="_blank"}
 
 Curriculum Vitae
 ================
