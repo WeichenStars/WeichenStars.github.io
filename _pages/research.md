@@ -12,7 +12,7 @@ Galaxies are not isolated islands in the Universe: They form and evolve inside l
 
 My postdocal research is largely focused on a unique quasar field which hosts a node of cosmic web at z=3.2.<sup>*footnotes a & b*</sup> This field features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
 
-> **Early & fast disk formation in cosmic web:** We recently discovered a surprisingly large disk in this cosmic web node using JWST. This galaxy has a half-light radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
+> **Early & fast disk formation in the cosmic web:** We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
 
 More results about this special cosmic web node field will be reported soon, which involve quiescent galaxies and the CGM/IGM gas emission.
 
