@@ -16,9 +16,9 @@ My postdocal research is largely focused on a unique quasar field which hosts a 
 
 More results about this special cosmic web node field will be reported soon, which involve quiescent galaxies and the CGM/IGM gas emission.
 
-<span style="color:grey">*footnote a: [yes it still counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=Proposals%20investigating%20galaxy%20formation%20and%20evolution%2C%20galaxy%20clusters%20and%20groups%2C%20and%20large%2Dscale%20structure%20at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more){:target="_blank"}.*</span>
+<span style="color:grey">*footnote a: yes z=3.2 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=Proposals%20investigating%20galaxy%20formation%20and%20evolution%2C%20galaxy%20clusters%20and%20groups%2C%20and%20large%2Dscale%20structure%20at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more){:target="_blank"}.*</span>
 
-*footnote b: nevertheless, very often numbers just give you more illusions than physical insights :-)*
+<span style="color:grey">*footnote b: nevertheless, numbers very often give you more illusions than physical insights :-)*</span>
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
