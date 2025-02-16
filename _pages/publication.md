@@ -22,7 +22,7 @@ Papers (1st author):
   *UVI colour gradients of 0.4<z<1.4 star-forming main-sequence galaxies in CANDELS: dust extinction and star formation profiles*
 
 
-    There are around 95 million Wang's in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield seem to work well to pick me out: 
+    There are around 95 million Wang's in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield so far work well to find me: 
  
     [Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/q=(%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D%20AND%20collection%3Aastronomy)%20OR%20(author%3A%22Wang%2C%20W%22%20AND%20author%3A%22Cantalupo%22%20AND%20collection%3Aastronomy)&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target="_blank"}
 

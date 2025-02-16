@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc research at the [University of Milano-Bicocca](https://astro.fisica.unimib.it/){:target="_blank"}. My research is focused on characterizing the formation of high-redshift galaxies in special cosmic environments and detecting the diffuse cosmic gas called CGM/IGM, both of which will provide us essential pieces to solve a critical puzzle of modern astronomy: **what roles has the large-scale environment played in galaxy formation.** 
+I am currently a postdoc research at the [University of Milano-Bicocca](https://astro.fisica.unimib.it/){:target="_blank"}. My research is focused on characterizing the formation of high-redshift galaxies in special cosmic environments and detecting the diffuse cosmic gas called CGM/IGM, both of which will provide us essential pieces to solve a critical puzzle of modern astronomy: **what roles has the large-scale environment played in galaxy formation?** 
 
 My research has been built upon observations with several major telescopes, including the JWST, VLT/MUSE and Keck/DEIMOS.  The JWST programs I am heavily involved in can be found [here](https://www.stsci.edu/jwst/science-execution/program-information.html?id=1835){:target="_blank"} and [here](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}. I work closely with [Prof. Sebastiano Cantalupo](http://cosmib.org/cantalupo/index.html){:target="_blank"} and many other colleagues in the [COSMIB group](http://cosmib.org/){:target="_blank"} at Milan and around the world.
 
