@@ -10,17 +10,18 @@ redirect_from:
 
 Galaxies are not isolated islands in the Universe: They form and evolve inside large-scale environments, which involve dark matter and flows of gas (CGM/IGM). Observing and analyzing the formation of high-redshift galaxies in environments with special characteristics can deliver a long-awaited opportunity for us to understand (a) what roles the environmental characteristics play in early galaxy formation and (b) conduct a ``stress test'' to galaxy formation models.
 
-My postdocal research is largely focused on a unique quasar field which hosts a node of cosmic web at z=3.2.<sup>footnote a </sup> <sup>footnote b</sup> This field features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
+My postdocal research is largely focused on a unique quasar field which hosts a node of cosmic web at z=3.2.<sup>*footnote a & b*</sup> This field features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
 
 > Most recently, we discovered a surprisingly large disk in this cosmic web node using JWST NIRCam & NIRSpec. This galaxy has a half-light radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
 
 More results about this special cosmic web node field will be reported soon, which involve quiescent galaxies and the CGM/IGM gas emission.
 
-
-&nbsp;&nbsp;&nbsp;&nbsp; <h6> footnote a: [yes it still counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=Proposals%20investigating%20galaxy%20formation%20and%20evolution%2C%20galaxy%20clusters%20and%20groups%2C%20and%20large%2Dscale%20structure%20at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more){:target="_blank"};
-
-&nbsp;&nbsp;&nbsp;&nbsp; <h6> footnote b: nevertheless, very often numbers just give you more illusions than physical insights :-)
-
+<ul>
+*footnote a: [yes it still counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=Proposals%20investigating%20galaxy%20formation%20and%20evolution%2C%20galaxy%20clusters%20and%20groups%2C%20and%20large%2Dscale%20structure%20at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more){:target="_blank"}.*
+</ul>
+<ul>
+*footnote b: nevertheless, very often numbers just give you more illusions than physical insights :-)*
+</ul>
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
