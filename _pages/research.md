@@ -6,22 +6,22 @@ redirect_from:
   - /astrophysics/
 ---
 
-## 1. Probing galaxy formation and gas in the high-redshift cosmic web node
+## 1. Probing galaxy formation and gas in high-redshift cosmic web node
 
 Galaxies are not isolated islands in the Universe: They form and evolve inside large-scale environments, which involve dark matter and flows of gas (CGM/IGM). Observing and analyzing the formation of high-redshift galaxies in environments with special characteristics can deliver a long-awaited opportunity for us to understand (a) what roles the environmental characteristics play in early galaxy formation and (b) conduct a ``stress test'' to galaxy formation models.
 
 My postdocal research is largely focused on a unique quasar field hosting a node of cosmic web at z=3.2 ([yes still counts as high-z :-)](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=Proposals%20investigating%20galaxy%20formation%20and%20evolution%2C%20galaxy%20clusters%20and%20groups%2C%20and%20large%2Dscale%20structure%20at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more); very often numbers give you more illusions than physical insights). This field features high concentration of galaxies, massive black holes, and gas (inside and around galaxies). 
 
-> Most recently, we discovered a surprisingly large disk in this cosmic web node using JWST NIRCam & NIRSpec. This z>3 galaxy has a half-light radius of around 10 kpc, as large as that of the Milky Way nowadays (!). The existence of such a giant rotating disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
+> Most recently, we discovered a surprisingly large disk in this cosmic web node using JWST NIRCam & NIRSpec. This galaxy has a half-light radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant rotating disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
 
-More results about this special cosmic web node field will be reported soon, involving quiescent galaxies and the CGM/IGM gas emission.
+More results about this special cosmic web node field will be reported soon, which involve quiescent galaxies and the CGM/IGM gas emission.
 
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
 I have been involved in a study to develop a novel observing mode for the JWST NIRSpec instrument. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST in the near future. 
 
-I co-led an effort to implement this mode to the upcoming observations of [our approved JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"} (PI: Susan Kassin), one of the largest General Observers programs in Cycle 1 for galaxy science. 
+I co-led an effort to implement this mode to the observations of [our approved JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"} (PI: Susan Kassin), one of the largest General Observers programs in Cycle 1 for galaxy science. 
 
 ## 3. Galactic winds beyond the local universe
 
