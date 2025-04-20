@@ -9,8 +9,7 @@ Publication
 
 Papers (1st author):
 
- + [4] &nbsp;W. Wang, S. Cantalupo, A. Pensabene et al. Nature Astronomy (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}):\
- *A Giant Disk Galaxy Two Billion Years After The Big Bang*
+ + [4] &nbsp;W. Wang, S. Cantalupo, A. Pensabene et al. Nature Astronomy (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}): *A Giant Disk Galaxy Two Billion Years After The Big Bang*
 
  + [3] &nbsp;W. Wang, S. A. Kassin, S. M. Faber, D. C. Koo et al. ApJ 930, 146 (2022, [arXiv: 2109.12133](https://arxiv.org/abs/2109.12133){:target="_blank"}):\
  *The Baltimore Oriole’s Nest: Cool Winds from the Inner and Outer Parts of a Star-Forming Galaxy at z = 1.3*
