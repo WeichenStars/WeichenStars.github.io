@@ -14,11 +14,8 @@ My postdocal research is largely focused on a unique quasar field, MQN01, which 
 
 > **Early & fast disk formation in the cosmic web:** We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2024](https://arxiv.org/abs/2409.17956){:target="_blank"}).
 
-More results about this special cosmic web node field will be reported soon, which involve quiescent galaxies and the CGM/IGM gas emission.
 
 <span style="color:grey">*f.n. a: yes z=3.2 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
-
-<span style="color:grey">*f.n. b: seriously speaking, numbers very often give you more illusions than physical insights.*</span>
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
