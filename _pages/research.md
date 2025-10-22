@@ -68,7 +68,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
     max-height:180%;
     font-size: 17px;
     padding-left: 3px;
-    padding-right: 12px;
+    padding-right: 18px;
   }
   img {
     min-width:89%;
@@ -81,7 +81,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
   <div class="container">
     <div class="text">
-      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
+      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
@@ -107,8 +107,10 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
-**Protocols to detect faint CGM gas:** 
 
+**Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to a Cycle-1 JWST program.
+
+![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
 ## 3. Galactic winds beyond the local universe
 
