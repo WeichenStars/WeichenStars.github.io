@@ -8,11 +8,9 @@ redirect_from:
 
 ## 1. Probing galaxy formation and gas in the cosmic web node at z>3
 
-Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models.
+Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models. My study for this purpose focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2.
 
-<!---
-My research is largely focused on a unique quasar field, MQN01, which hosts a node of cosmic web at z=3.2.<sup>*footnote*</sup> This field also features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
--->
+
 
 <div class="aside">
 <h2>Early & fast disk formation in the cosmic web node</h2>
@@ -44,7 +42,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>We recently discovered a surprisingly large disk in the cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
     </div>
   </div>
 
@@ -83,7 +81,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node system mentioned above, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
+      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
