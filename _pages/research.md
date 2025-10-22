@@ -9,7 +9,7 @@ redirect_from:
 <br>
 # <span style="color:#4A520B">1. Galaxy formation in the cosmic web node at z>3</span>
 
-Galaxies form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can offer us a golden opportunity to (a) understand the roles of the environment in early-epoch galaxy formation and (b) conduct a "stress test'' to galaxy models. My studies for this purpose are focused on a field named MQN01, a gas-rich and overdense cosmic web node at z~3.2.
+Galaxies form and evolve in large-scale cosmic environments, which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can offer us a golden opportunity to (a) understand the roles of the environment in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy models. My studies for this purpose are focused on a field named MQN01, a gas-rich and overdense cosmic web node at z~3.2.
 
 
 
