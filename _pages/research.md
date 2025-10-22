@@ -123,7 +123,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
 
 
 <div class="aside">
-<h2>Spatially extended star formation drives winds at z≳1 </h2>
+<h2>Spatially extended star formation drives galactic winds at z≳1 </h2>
 
   <style>
     .container {
