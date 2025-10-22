@@ -13,8 +13,7 @@ Galaxies are not isolated islands in the Universe: They form and evolve inside l
 My research is largely focused on a unique quasar field, MQN01, which hosts a node of cosmic web at z=3.2.<sup>*footnote*</sup> This field also features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
 
 <div class="aside">
-<h2>My heading</h2>
-<p>Some text, some text, some more text.</p>
+<h2>Early & fast disk formation in the cosmic web</h2>
 
   <style>
     .container {
@@ -27,8 +26,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-height:100%;
   }
   .text {
-    font-size: 20px;
-    padding-left: 20px;
+    font-size: 16px;
+    padding-left: 16px;
   }
   </style>
 <body>
@@ -38,7 +37,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
     </div>
     <div class="text">
-      <h1>This is a beautiful picture.</h1>
+      <p>We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. ([Wang et al. 2025](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}).</p>
     </div>
   </div>
 
