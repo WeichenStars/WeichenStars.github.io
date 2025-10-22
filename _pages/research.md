@@ -104,7 +104,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
 ## 2. Building an efficient mode of spatially-resolved spectroscopy
 
-I have been involved in a study to develop a novel observing mode for the JWST NIRSpec instrument. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST in the near future, and can also be applied to ground-based multi-slit spectrographs. 
+I have been involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NNIRSpec IFU mode which only targets at one galaxy at a time. The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to ground-based multi-slit spectrographs. 
 
 I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, one of the largest GO programs in Cycle 1 for galaxy science. 
 
