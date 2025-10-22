@@ -8,7 +8,7 @@ redirect_from:
 
 ## 1. Probing galaxy formation and gas in the cosmic web node at z>3
 
-Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a long-awaited opportunity for us to (a) understand what roles the environmental characteristics play in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models.
+Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models.
 
 <!---
 My research is largely focused on a unique quasar field, MQN01, which hosts a node of cosmic web at z=3.2.<sup>*footnote*</sup> This field also features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
@@ -24,8 +24,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   img {
-    min-width:85%;
-    max-width:90%;
+    min-width:89%;
+    max-width:91%;
     min-height:30%;
     max-height:170%;
   }
@@ -44,7 +44,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
     </div>
   </div>
 
