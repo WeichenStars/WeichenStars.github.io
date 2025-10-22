@@ -24,8 +24,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   img {
-    min-width:99%;
-    max-width:101%;
+    min-width:89%;
+    max-width:91%;
     min-height:30%;
     max-height:170%;
   }
@@ -72,8 +72,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     padding-left: 3px;
   }
   img {
-    min-width:99%;
-    max-width:101%;
+    min-width:89%;
+    max-width:91%;
     min-height:30%;
     max-height:170%;
   }
@@ -102,7 +102,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
-## 2. Building an efficient mode of spatially-resolved spectroscopy
+## 2. Developing an efficient mode of spatially-resolved spectroscopy
 
 I have been involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, one of the largest GO programs in Cycle 1 for galaxy science. 
 
@@ -116,11 +116,14 @@ My thesis research was motivated by one question: How and where do galactic wind
 
 > **Spatially extended galaxy star formation drives winds:** I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. It might be common for the massive star-forming galaxies at $z \gtrsim 1$ to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). 
 
+<!---
+
 ## 4. The dust attenuation law for galaxies at $z\sim 1$
 
 Accurate measurements of the galaxy star formation rates are essential for us to understand how galaxies form. However, a significant fraction of the star formation can be obscured by dust. The obscured star formation needs to be inferred indirectly by assuming a certain dust attenuation law if no far-infrared photometry is available, which is often the case for the galaxies observed at high redshifts. 
 
 > **Dust law varies with galaxy inclination:** In [Wang et al. (2018)](https://arxiv.org/abs/1811.03671){:target="_blank"}, we find that the dust attenuation law is dependent on the galaxy inclination, which can lead to systematic errors up to 0.3 dex in the inferred star formation rates. By introducing an inclination correction, our study brings more accurate measurements of star formation rates at $z\sim 1$ and above.  Details about this study can be found from [my talk at the STScI/JHU Galaxy Journal Club](http://WeichenStars.github.io/files/GJC_WWang.pdf){:target="_blank"}.
+-->
 
 
 <!---
