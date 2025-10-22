@@ -114,6 +114,9 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 
 **Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
+
+
+<br>
 # 3. Relations between winds and star formation at z≳1
 
 Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation. However, much has yet to be known regarding the origins and properties of these winds, especially beyond the local Universe. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
@@ -150,7 +153,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
       <img src="https://weichenstars.github.io/images/winds_cartoon_sf.png">
     </div>
     <div class="text">
-      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 (<a href="https://arxiv.org/abs/2109.12133">Wang et al. 2022</a>). This is supported by a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
+      <p>As part of my thesis work, I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 (<a href="https://arxiv.org/abs/2109.12133">Wang et al. 2022</a>). This is supported by a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
     </div>
   </div>
 
