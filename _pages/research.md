@@ -65,15 +65,15 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   .text {
-    max-width:45%;
+    max-width:42%;
     min-height:170%;
     max-height:180%;
     font-size: 18px;
     padding-left: 18px;
   }
   img {
-    min-width:64%;
-    max-width:66%;
+    min-width:69%;
+    max-width:71%;
     min-height:30%;
     max-height:170%;
   }
