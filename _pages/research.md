@@ -30,7 +30,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-height:170%;
   }
   .text {
-    max-width:45%;
+    max-width:42%;
     min-height:170%;
     max-height:180%;
     font-size: 18px;
@@ -44,13 +44,55 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. These conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
     </div>
   </div>
 
 </body>
 
 </div>
+
+
+
+
+<div class="aside">
+<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
+
+  <style>
+    .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  img {
+    min-width:94%;
+    max-width:96%;
+    min-height:30%;
+    max-height:170%;
+  }
+  .text {
+    max-width:42%;
+    min-height:170%;
+    max-height:180%;
+    font-size: 18px;
+    padding-left: 18px;
+  }
+  </style>
+<body>
+
+  <div class="container">
+    <div class="text">
+      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+    </div>
+    <div class="image">
+      <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
+    </div>
+  </div>
+
+</body>
+
+</div>
+
 
 <!---
 
