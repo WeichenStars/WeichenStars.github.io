@@ -33,8 +33,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-width:42%;
     min-height:170%;
     max-height:180%;
-    font-size: 18px;
-    padding-left: 18px;
+    font-size: 17px;
+    padding-left: 17px;
   }
   </style>
 <body>
@@ -68,8 +68,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-width:42%;
     min-height:170%;
     max-height:180%;
-    font-size: 18px;
-    padding-left: 18px;
+    font-size: 17px;
+    padding-left: 3px;
   }
   img {
     min-width:69%;
