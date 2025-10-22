@@ -15,7 +15,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 -->
 
 <div class="aside">
-<h2>Early & fast disk formation in the cosmic web node</h2>
+<h3>Early & fast disk formation in the cosmic web node</h3>
 
   <style>
     .container {
@@ -56,7 +56,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
 
 <div class="aside">
-<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
+<h3>Galaxy quenching in a giant reservoir of cool gas </h3>
 
   <style>
     .container {
@@ -82,7 +82,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>Recent studies at z>3 revealed a surprisingly large number of quiescent galaxies. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Surprisingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the half of gas accretion due to strong CGM turbulence.  (W. Wang et al. 2025 in prep).</p>
+      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Surprisingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to strong CGM turbulence.  (W. Wang et al. in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
@@ -102,7 +102,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
-## 2. Efficient mode of spatially-resolved spectroscopy
+## 2. Building an efficient mode of spatially-resolved spectroscopy
 
 I have been involved in a study to develop a novel observing mode for the JWST NIRSpec instrument. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST in the near future. 
 
