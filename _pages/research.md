@@ -15,7 +15,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 -->
 
 <div class="aside">
-<h3>Early & fast disk formation in the cosmic web node</h3>
+<h2>Early & fast disk formation in the cosmic web node</h2>
 
   <style>
     .container {
@@ -56,7 +56,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
 
 <div class="aside">
-<h3>Galaxy quenching in a giant reservoir of cool gas </h3>
+<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
 
   <style>
     .container {
@@ -72,8 +72,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     padding-left: 18px;
   }
   img {
-    min-width:79%;
-    max-width:81%;
+    min-width:64%;
+    max-width:66%;
     min-height:30%;
     max-height:170%;
   }
@@ -82,7 +82,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Surprisingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to strong CGM turbulence.  (W. Wang et al. in prep).</p>
+      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
