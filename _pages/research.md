@@ -8,7 +8,7 @@ redirect_from:
 
 ## 1. Probing galaxy formation and gas in the cosmic web node at z>3
 
-Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Observing and analyzing the formation of high-redshift galaxies in environments with special characteristics can deliver a long-awaited opportunity for us to (a) understand what roles the environmental characteristics play in early galaxy formation and (b) conduct a "stress test'' to galaxy formation models.
+Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a long-awaited opportunity for us to (a) understand what roles the environmental characteristics play in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models.
 
 <!---
 My research is largely focused on a unique quasar field, MQN01, which hosts a node of cosmic web at z=3.2.<sup>*footnote*</sup> This field also features high concentration of galaxies, massive black holes, and the gas inside and around galaxies. 
