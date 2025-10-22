@@ -105,9 +105,6 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 <br>
 
-<br>
-
-
 # 2. Developing tools for efficient & sensitive spectroscopy
 
 **Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
@@ -115,7 +112,6 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
 <br>
-
 
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
