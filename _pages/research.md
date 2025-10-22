@@ -6,6 +6,8 @@ redirect_from:
   - /astrophysics/
 ---
 
+<br>
+
 # 1. Galaxy formation in the cosmic web node at z>3
 
 Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models. My studies for this purpose have been focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2.
@@ -113,19 +115,25 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 
 **Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
-# 3. Connections between galactic winds and galaxy star formation at z≳1
+# 3. Relations between winds and star formation at z≳1
 
-Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation, especially beyond the local Universe. However, much has yet to be known regarding the origins and properties of these winds. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
+Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation. However, much has yet to be known regarding the origins and properties of these winds, especially beyond the local Universe. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
 
 
 <div class="aside">
-<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
+<h2>Spatially extended star formation drives winds at z≳1 </h2>
 
   <style>
     .container {
     display: flex;
     align-items: center;
     justify-content: center
+  }
+  img {
+    min-width:89%;
+    max-width:91%;
+    min-height:30%;
+    max-height:170%;
   }
   .text {
     max-width:42%;
@@ -135,31 +143,21 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
     padding-left: 3px;
     padding-right: 20px;
   }
-  img {
-    min-width:89%;
-    max-width:91%;
-    min-height:30%;
-    max-height:170%;
-  }
   </style>
 <body>
 
   <div class="container">
-    <div class="text">
-      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Results from the study suggests that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1.</p>
-    </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
+    </div>
+    <div class="text">
+      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). This is supported by a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). </p>
     </div>
   </div>
 
 </body>
 
 </div>
-
-
-
-> **Spatially extended galaxy star formation drives winds:** I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. It might be common for the massive star-forming galaxies at $z \gtrsim 1$ to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). 
 
 <!---
 
