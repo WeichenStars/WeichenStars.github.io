@@ -38,7 +38,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. ([Wang et al. 2025](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}).</p>
+      <p>We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025 </a>).</p>
     </div>
   </div>
 
@@ -46,11 +46,13 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
 </div>
 
+<!---
 
 > **Early & fast disk formation in the cosmic web:** We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk when the Universe was merely 2 Gyr old indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. These conditions include non-destructive mergers and highly efficient & coherent cosmic gas accretion ([Wang et al. 2025](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}).
 
 
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
+-->
 
 ## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
 
