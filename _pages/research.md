@@ -44,7 +44,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>We recently discovered a surprisingly large disk in a cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
     </div>
   </div>
 
@@ -72,8 +72,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     padding-left: 18px;
   }
   img {
-    min-width:94%;
-    max-width:96%;
+    min-width:89%;
+    max-width:91%;
     min-height:30%;
     max-height:170%;
   }
@@ -82,7 +82,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>Recent studies at z>3 revealed a surprisingly large number of quiescent galaxies, putting our previous knowledge of galaxy formation into question. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc CGM reservoir of cool gas traced by LyA (yellow contours) but, surprisingly, it is quiescent although surrounded by this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the lack of gas accretion due to strong turbulence in the CGM.  (W. Wang et al. 2025 in prep; w/ image credit).</p>
+      <p>Recent studies at z>3 revealed a surprisingly large number of quiescent galaxies. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc CGM reservoir of cool gas traced by LyA (yellow contours) but, surprisingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the half of gas accretion due to strong CGM turbulence.  (W. Wang et al. 2025 in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
@@ -102,7 +102,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
-## 2. "Slitlet-Stepping": a novel mode of spatially-resolved spectroscopic observations with JWST
+## 2. Efficient mode of spatially-resolved spectroscopy
 
 I have been involved in a study to develop a novel observing mode for the JWST NIRSpec instrument. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a single time. The high efficiency will open up great opportunities for large galaxy surveys with JWST in the near future. 
 
