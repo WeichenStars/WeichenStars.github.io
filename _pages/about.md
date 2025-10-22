@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc researcher at the [University of Milano-Bicocca](https://astro.fisica.unimib.it/){:target="_blank"}. My research is focused on *(a)* characterizing the high-redshift galaxies in special cosmic environments and *(b)* detecting the diffuse cosmic gas called CGM/IGM in emission. 
+I am currently a postdoc researcher at the [University of Milano-Bicocca](https://astro.fisica.unimib.it/){:target="_blank"}. 
+
+My research is focused on *(a)* characterizing the high-redshift galaxies in special cosmic environments and *(b)* detecting the diffuse cosmic gas called CGM/IGM in emission. 
 
 Both efforts will provide us essential pieces to solve a critical puzzle of modern astronomy: **what roles has the large-scale environment played in galaxy formation?** 
 
