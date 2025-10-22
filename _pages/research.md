@@ -101,7 +101,11 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
+<br>
 
+<br>
+
+<br>
 
 
 # 2. Developing tools for efficient & sensitive spectroscopy
@@ -110,6 +114,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
+<br>
 
 
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
