@@ -103,25 +103,21 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 <br>
 
-<br>
-
-# 2. Developing tools for efficient & sensitive spectroscopy
+# 2. Developing tools for efficient, sensitive spectroscopy
 
 **Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
-
 <br>
-
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
 **Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
 # 3. Connections between galactic winds and galaxy star formation at z≳1
 
-Galactic winds are the outflowing gas ejected from galaxies. They are considered to have a prominent impact on galaxy formation especially in the early Universe. However, much has yet to be known regarding the origins and physical properties of these winds. 
+Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation, especially beyond the local Universe. However, much has yet to be known regarding the origins and properties of these winds. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
 
-My thesis research was motivated by one question: How and where do galactic winds occur within galaxies in the early Universe? I aim at answering the question using the spectroscopic data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
+I aim at answering the question using the spectroscopic data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
 
 > **Spatially extended galaxy star formation drives winds:** I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. It might be common for the massive star-forming galaxies at $z \gtrsim 1$ to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). 
 
