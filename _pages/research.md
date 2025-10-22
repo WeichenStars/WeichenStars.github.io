@@ -155,6 +155,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
     <div class="text">
       <p>As part of my thesis work, I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 (<a href="https://arxiv.org/abs/2109.12133">Wang et al. 2022</a>). 
       
+      <br>
       This finding is agrees with a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
     </div>
   </div>
