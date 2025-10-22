@@ -1,5 +1,5 @@
 ---
-title: <span style="color:#525252">Research: Galaxies & Their Surroundings</span>
+title: "Research: Galaxies & Their Surroundings"
 permalink: /research/
 author_profile: false
 redirect_from:
