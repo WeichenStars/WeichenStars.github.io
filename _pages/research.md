@@ -82,7 +82,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
+      <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node system mentioned above, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (W. Wang et al. in prep).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
