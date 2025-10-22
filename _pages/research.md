@@ -24,8 +24,8 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   img {
-    min-width:90%;
-    max-width:100%;
+    min-width:80%;
+    max-width:85%;
     min-height:30%;
     max-height:170%;
   }
