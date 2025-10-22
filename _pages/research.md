@@ -22,19 +22,20 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   img {
+    min-width :90%;
     max-width: 100%;
     max-height:100%;
   }
   .text {
-    font-size: 16px;
-    padding-left: 16px;
+    font-size: 18px;
+    padding-left: 18px;
   }
   </style>
 <body>
 
   <div class="container">
     <div class="image">
-      <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
+      <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
       <p>We recently discovered a surprisingly large disk in this cosmic web node using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). The existence of such a giant disk, when the Universe was merely 2 Gyr old, indicates that the cosmic web node hosts favorable conditions for disks to form early and fast. ([Wang et al. 2025](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}).</p>
