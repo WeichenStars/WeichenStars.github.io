@@ -33,6 +33,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-width:35%;
     min-height:170%;
     max-height:180%;
+    word-wrap: break-word;
     font-size: 18px;
     padding-left: 18px;
   }
