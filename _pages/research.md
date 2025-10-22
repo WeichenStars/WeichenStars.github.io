@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 <br>
-
 # 1. Galaxy formation in the cosmic web node at z>3
 
 Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models. My studies for this purpose have been focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2.
@@ -148,10 +147,10 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
 
   <div class="container">
     <div class="image">
-      <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
+      <img src="https://weichenstars.github.io/images/winds_cartoon_sf.png">
     </div>
     <div class="text">
-      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). This is supported by a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). </p>
+      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy and found that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1 (<a href="https://arxiv.org/abs/2109.12133">Wang et al. 2022</a>). This is supported by a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
     </div>
   </div>
 
