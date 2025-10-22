@@ -14,7 +14,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 
 <div class="aside">
-<h2> Early & fast disk formation in the cosmic web node </h2>
+<h2> <span style="color:olive">Early & fast disk formation in the cosmic web node</span> </h2>
 
   <style>
     .container {
@@ -55,7 +55,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 
 <div class="aside">
-<h2> Galaxy quenching in a giant reservoir of cool gas </h2>
+<h2> <span style="color:olive">Galaxy quenching in a giant reservoir of cool gas</span> </h2>
 
   <style>
     .container {
@@ -105,14 +105,14 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 <br>
 # <span style="color:olive">2. Developing tools for efficient, sensitive spectroscopy</span>
 
-**Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
+**<span style="color:olive">Slitlet-Stepping:</span>** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
 <br>
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
-**Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
+**<span style="color:olive">Protocols to detect the faint CGM gas:</span>** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
 
 
@@ -123,7 +123,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
 
 
 <div class="aside">
-<h2>Spatially extended star formation drives galactic winds at z≳1 </h2>
+<h2> <span style="color:olive">Spatially extended star formation drives galactic winds at z≳1</span> </h2>
 
   <style>
     .container {
@@ -140,7 +140,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
   .text {
     max-width:42%;
     min-height:170%;
-    max-height:180%;
+    max-height:180%; 
     font-size: 17px;
     padding-left: 3px;
     padding-right: 20px;
