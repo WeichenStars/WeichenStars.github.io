@@ -24,13 +24,13 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     justify-content: center
   }
   img {
-    min-width :240%;
-    max-width: 250%;
-    min-height :240%;
-    max-height:250%;
+    min-width :170%;
+    max-width: 180%;
+    min-height :170%;
+    max-height:180%;
   }
   .text {
-    max-width: 60%;
+    max-width: 40%;
     font-size: 18px;
     padding-left: 18px;
   }
