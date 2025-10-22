@@ -6,7 +6,7 @@ redirect_from:
   - /astrophysics/
 ---
 
-# 1. Probing galaxy formation in the cosmic web node at z>3
+# 1. Galaxy formation in the cosmic web node at z>3
 
 Galaxies are not isolated cosmic islands: They form and evolve inside large-scale environments which involve dark matter and flows of gas. Studying high-redshift galaxies in special environments can deliver a golden opportunity for us to (a) understand the roles of the environment in the early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy formation models. My studies for this purpose have been focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2.
 
@@ -32,7 +32,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
     min-height:170%;
     max-height:180%;
     font-size: 17px;
-    padding-left: 12px;
+    padding-left: 10px;
   }
   </style>
 <body>
@@ -68,7 +68,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
     max-height:180%;
     font-size: 17px;
     padding-left: 3px;
-    padding-right: 18px;
+    padding-right: 20px;
   }
   img {
     min-width:89%;
@@ -101,17 +101,22 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
+
+
+
 # 2. Developing tools for efficient & sensitive spectroscopy
 
 **Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
+
+
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
 **Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to a Cycle-1 JWST program.
 
-# 3. Connections between galactic winds and star formation at z≳1
+# 3. Connections between galactic winds and galaxy star formation at z≳1
 
 Galactic winds are the outflowing gas ejected from galaxies. They are considered to have a prominent impact on galaxy formation especially in the early Universe. However, much has yet to be known regarding the origins and physical properties of these winds. 
 
