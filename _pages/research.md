@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research: Galaxies & Their Surroundings"
 permalink: /research/
 author_profile: false
 redirect_from:
