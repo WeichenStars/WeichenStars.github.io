@@ -34,7 +34,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     min-height:170%;
     max-height:180%;
     font-size: 17px;
-    padding-left: 17px;
+    padding-left: 12px;
   }
   </style>
 <body>
@@ -70,6 +70,7 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
     max-height:180%;
     font-size: 17px;
     padding-left: 3px;
+    padding-right: 12px;
   }
   img {
     min-width:89%;
@@ -102,11 +103,14 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 <span style="color:grey">*footnote: z=3 still [counts as high-z](https://jwst-docs.stsci.edu/jwst-opportunities-and-policies/jwst-call-for-proposals-for-cycle-4/jwst-proposal-selection-procedures#gsc.tab=0:~:text=z~2%2D3-,High%2DRedshift%20Galaxies%20and%20the%20Distant%20Universe,at%20high%20redshifts%2C%20from%20z%20%3E%203%20through%20z~12%20or%20more,-Super%20Massive%20Black){:target="_blank"} :-)*</span>
 -->
 
-## 2. Developing an efficient mode of spatially-resolved spectroscopy
+## 2. Developing tools for efficient & sensitive spectroscopy
 
-I have been involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', will enable spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by making use of the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets at one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, one of the largest GO programs in Cycle 1 for galaxy science. 
+**Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
-The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to ground-based multi-slit spectrographs. 
+The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
+
+**Protocols to detect faint CGM gas:** 
+
 
 ## 3. Galactic winds beyond the local universe
 
