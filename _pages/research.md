@@ -102,12 +102,12 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 -->
 
 <br>
-
 # 2. Developing tools for efficient, sensitive spectroscopy
 
 **Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
+
 <br>
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
@@ -117,7 +117,47 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 
 Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation, especially beyond the local Universe. However, much has yet to be known regarding the origins and properties of these winds. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
 
-I aim at answering the question using the spectroscopic data from a Keck observing program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which includes around 200 $z \sim 1$ star-forming galaxies with deep exposures by the DEep Imaging Multi-Object Spectrograph (DEIMOS). 
+
+<div class="aside">
+<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
+
+  <style>
+    .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  .text {
+    max-width:42%;
+    min-height:170%;
+    max-height:180%;
+    font-size: 17px;
+    padding-left: 3px;
+    padding-right: 20px;
+  }
+  img {
+    min-width:89%;
+    max-width:91%;
+    min-height:30%;
+    max-height:170%;
+  }
+  </style>
+<body>
+
+  <div class="container">
+    <div class="text">
+      <p>I was involved in a Keck DEIMOS program, HALO7D (PI: R. Guhathakurta, UC Santa Cruz), which included around 200 $z \sim 1$ star-forming galaxies. I led a case study of the cool galactic winds from a massive star-forming galaxy ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Results from the study suggests that the winds are most likely launched from all parts of the galaxy. In other words, spatially extended galaxy star formation drives the winds at z~1.</p>
+    </div>
+    <div class="image">
+      <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
+    </div>
+  </div>
+
+</body>
+
+</div>
+
+
 
 > **Spatially extended galaxy star formation drives winds:** I led a case study of the cool phase of galactic winds from a massive star-forming galaxy at $z \sim 1$ ([Wang et al. 2022](https://arxiv.org/abs/2109.12133){:target="_blank"}). Our study indicates that the winds are most likely launched from a spatially extended area which includes both the inner and outer regions of the galaxy. We also find that spatially extended star formation is the most probable driver of the observed extended winds. It might be common for the massive star-forming galaxies at $z \gtrsim 1$ to have winds launched from the entire galaxies. This is supported by a separate study, in which we find that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ ([Wang et al. 2017](https://arxiv.org/abs/1705.05404){:target="_blank"}). 
 
