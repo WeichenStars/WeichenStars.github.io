@@ -82,10 +82,10 @@ My research is largely focused on a unique quasar field, MQN01, which hosts a no
 
   <div class="container">
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in a gas-rich cosmic web node at z=3.2 using JWST. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>Recent studies at z>3 revealed a surprisingly large number of quiescent galaxies, putting our previous knowledge of galaxy formation into question. How can galaxies stop forming stars so early in cosmic time? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy is located at the center of a 100-kpc CGM reservoir of cool gas traced by LyA (yellow contours) but, surprisingly, it is quiescent although surrounded by this source of gas supply. Our JWST+MUSE observations suggest that the quenching is most likely casued by the lack of gas accretion due to strong turbulence in the CGM.  (W. Wang et al. 2025 in prep; w/ image credit).</p>
     </div>
     <div class="image">
-      <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
+      <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
     </div>
   </div>
 
