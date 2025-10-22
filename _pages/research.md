@@ -55,7 +55,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 
 
 <div class="aside">
-<h2>Galaxy quenching in a giant reservoir of cool gas </h2>
+<h2> Galaxy quenching in a giant reservoir of cool gas </h2>
 
   <style>
     .container {
@@ -103,7 +103,7 @@ Galaxies are not isolated cosmic islands: They form and evolve inside large-scal
 -->
 
 <br>
-# 2. Developing tools for efficient, sensitive spectroscopy
+# <span style="color:olive">2. Developing tools for efficient, sensitive spectroscopy</span>
 
 **Slitlet-Stepping:** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
@@ -117,7 +117,7 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 
 
 <br>
-# 3. Relations between winds and star formation at z≳1
+# <span style="color:olive">3. Relations between winds and star formation at z≳1</span>
 
 Galactic winds, the outflowing gas ejected from galaxies, are considered to have a prominent impact on galaxy formation. However, much has yet to be known regarding the origins and properties of these winds, especially beyond the local Universe. My thesis research was motivated by one question: How and where do the winds occur within the distant galaxies? 
 
