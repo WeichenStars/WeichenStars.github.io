@@ -119,7 +119,7 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
-**Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to a Cycle-1 JWST program.
+**Protocols to detect the faint CGM gas:** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
 # 3. Connections between galactic winds and galaxy star formation at z≳1
 
