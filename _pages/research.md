@@ -112,7 +112,7 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 <br>
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
-**<span style="color:olive">Protocols to detect the faint CGM gas:</span>** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaiminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
+**<span style="color:olive">Protocols to detect the faint CGM gas:</span>** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
 
 
 
@@ -159,7 +159,7 @@ Galactic winds, the outflowing gas ejected from galaxies, are considered to have
 
       <br>
       
-      This finding is agrees with a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
+      This finding agrees with a separate study, in which we found that spatially extended star formation is common among massive star-forming galaxies at $z \sim 1$ (<a href="https://arxiv.org/abs/1705.05404">Wang et al. 2017</a>). </p>
     </div>
   </div>
 
