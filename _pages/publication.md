@@ -9,9 +9,13 @@ Publication
 
 Papers (1st author or with leading contributions):
 
- + [5] &nbsp;**W. Wang**, S. Cantalupo, A. Pensabene et al. Nature Astronomy (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}): *A Giant Disk Galaxy Two Billion Years After The Big Bang*
+ + [7] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. submitted to A&A (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3*
 
-+ [4] &nbsp;A. Pensabene, S. Cantalupo, **W. Wang** et al. A&A in press (2025, [arXiv: 2507.16921](https://arxiv.org/abs/2507.16921){:target="_blank"}): \
+ + [6] &nbsp;X. Wang, S. Cantalupo, **W. Wang**, et al. submitted to A&A (2025, [arXiv: 2511.19608](https://arxiv.org/abs/2511.19608){:target="_blank"}): *Metal enrichment of galaxies in a massive node of the Cosmic Web at z~3*
+
+ + [5] &nbsp;**W. Wang**, S. Cantalupo, A. Pensabene et al. Nature Astronomy 9, 710 (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}): *A Giant Disk Galaxy Two Billion Years After The Big Bang*
+
++ [4] &nbsp;A. Pensabene, S. Cantalupo, **W. Wang** et al. A&A 701, A120 (2025, [arXiv: 2507.16921](https://arxiv.org/abs/2507.16921){:target="_blank"}): \
 *ALMA survey of a massive node of the Cosmic Web at z∼3: II. A dynamically cold disk galaxy in the proximity of a hyperluminous quasar*
 
  + [3] &nbsp;**W. Wang**, S. A. Kassin, S. M. Faber, D. C. Koo et al. ApJ 930, 146 (2022, [arXiv: 2109.12133](https://arxiv.org/abs/2109.12133){:target="_blank"}): *The Baltimore Oriole’s Nest: Cool Winds from the Inner and Outer Parts of a Star-Forming Galaxy at z = 1.3*
