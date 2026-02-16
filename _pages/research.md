@@ -9,7 +9,7 @@ redirect_from:
 <br>
 # <span style="color:#4A520B">1. The JWST-MQN01 Program:<br>&nbsp; &nbsp; early galaxy formation in extreme environments</span>
 
-Galaxies form and evolve in large-scale cosmic environments, which involve dark matter and flows of gas. Studying high-redshift galaxies in extreme environments can offer us a golden opportunity to (a) understand the roles of the environment in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy models. My study for this purpose is focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2, and has been based on [a JWST program dedicated to this field](https://www.stsci.edu/jwst-program-info/program/?program=1835){:target="_blank"}.
+Galaxies form and evolve in large-scale cosmic environments, which involve dark matter and flows of gas. Studying high-redshift galaxies in extreme environments can offer us a golden opportunity to (a) understand the roles of the environment in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy models. My study for this purpose is focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2, and has been based on a JWST program dedicated to this field, [JWST-MQN01](https://www.stsci.edu/jwst-program-info/program/?program=1835){:target="_blank"}.
 
 
 <div class="aside">
@@ -105,7 +105,7 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
 <br>
 # <span style="color:#4A520B">2. Developing tools for efficient, sensitive spectroscopy</span>
 
-**<span style="color:olive">Slitlet-Stepping:</span>** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
+**<span style="color:olive">Slitlet-Stepping:</span>** I am involved in a study to develop a novel observing mode for spatially-resolved spectroscopy. The mode, ''Slitlet-Stepping'', enables spatially resolved spectroscopic observations of at least 30 galaxies on JWST simultaneously, by using the Mirco-Shutter Assembly on the NIRSpec. The mode is at least 10 times as efficient as the NIRSpec IFU mode which only targets one galaxy at a time. I co-led an effort to implement this mode to the observations of [our JWST program GARDEN](https://www.stsci.edu/jwst/science-execution/program-information.html?id=2123){:target="_blank"}, a large GO program in Cycle 1 for galaxy science. 
 
 The high efficiency will open up great opportunities for large galaxy surveys with JWST, and can also be applied to the ground-based multi-slit spectrographs. 
 
