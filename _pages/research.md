@@ -42,7 +42,7 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
       <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
     </div>
     <div class="text">
-      <p>We recently discovered a surprisingly large disk in the cosmic web node at z=3.2 using JWST and ALMA. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2" target="_blank">Wang et al. 2025</a>; w/ image credit).</p>
+      <p>We recently discovered a surprisingly large disk in the cosmic web node at z=3.2 using JWST and ALMA. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2" target="_blank">Wang et al. 2025</a>; w/ image credits).</p>
     </div>
   </div>
 
@@ -112,7 +112,7 @@ The high efficiency will open up great opportunities for large galaxy surveys wi
 <br>
 ![](https://weichenstars.github.io/images/nirspec_cleanreduction.png)
 
-**<span style="color:olive">Protocols to detect the faint CGM gas:</span>** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaminations of detector/cosmic ray noises. The protocols have been applied to JWST program GO1835.
+**<span style="color:olive">Protocols to detect the faint CGM gas:</span>** Studies of the Circum-Galactic Medium requires clean, sensitive detections of the faint extended gas emission, which is so far challenging. I developed a set of protocols to filter and enhance this extended line emission signal from the slit spectra, by mitigating the impacts of fast-changing backgrounds and contaminations of detector/cosmic ray noises. The protocols have been applied to the JWST-MQN01 program.
 
 
 
