@@ -26,6 +26,11 @@ Papers (1st author or with leading contributions):
  + [1] &nbsp;**W. Wang**, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arXiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}):\
   *UVI colour gradients of 0.4<z<1.4 star-forming main-sequence galaxies in CANDELS: dust extinction and star formation profiles*
 
+Papers in prep. (1st author):
+
+ + [1] &nbsp;**W. Wang**, S. A. Kassin, S. M. Faber, D. C. Koo et al. in prep., to be submitted to ApJ:\
+  *The Roles of Integrated and Resolved Galaxy Star Formation in Driving Winds at $z\sim 1$*
+
 
     There are 95 million Wang in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield so far work well to find me: 
  
