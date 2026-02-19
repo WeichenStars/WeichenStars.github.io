@@ -32,9 +32,9 @@ Papers in prep. (1st author):
   *The Roles of Integrated and Resolved Galaxy Star Formation in Driving Winds at $z\sim 1$*
 
 
-    There are 95 million Wang in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield so far work well to find me: 
+There are 95 million Wang in the world. But running exact name matching (=author:'Wang, Weichen') and selecting the astronomy subfield so far work well to find me: 
  
-    [Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=NOT&filter_doctype_facet_hier_fq_doctype=(*%3A*%20NOT%20doctype_facet_hier%3A%220%2FNon-Article%22)&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&fq_doctype=((*%3A*%20NOT%20doctype_facet_hier%3A%220%2FNon-Article%22)%20NOT%20doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22)&q=(%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D%20AND%20collection%3Aastronomy)%20OR%20(author%3A%22Wang%2C%20W%22%20AND%20author%3A%22Cantalupo%22%20AND%20collection%3Aastronomy)&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target="_blank"}
+[Up-to-date list on ADS](https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=NOT&filter_doctype_facet_hier_fq_doctype=(*%3A*%20NOT%20doctype_facet_hier%3A%220%2FNon-Article%22)&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&fq_doctype=((*%3A*%20NOT%20doctype_facet_hier%3A%220%2FNon-Article%22)%20NOT%20doctype_facet_hier%3A%221%2FArticle%2FProceedings%20Article%22)&q=(%3Dauthor%3A(%22Wang%2C%20Weichen%22)%20AND%20pubdate%3A%5B2016-01%20TO%20*%5D%20AND%20collection%3Aastronomy)%20OR%20(author%3A%22Wang%2C%20W%22%20AND%20author%3A%22Cantalupo%22%20AND%20collection%3Aastronomy)&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target="_blank"}
 
 Curriculum Vitae
 ================
