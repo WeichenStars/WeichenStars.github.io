@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <br>
-# <span style="color:#4A520B">1. The JWST-MQN01 Program:<br>&nbsp; &nbsp; early galaxy formation in extreme cosmic environments</span>
+# <span style="color:#4A520B">1. The JWST-MQN01 Program: early-epoch<br>&nbsp; &nbsp; galaxy formation in extreme cosmic environments</span>
 
 Galaxies form and evolve in large-scale cosmic environments, which involve dark matter and flows of gas. Studying high-redshift galaxies in extreme environments can offer us a golden opportunity to (a) understand the roles of the environment in early-epoch galaxy formation and (b) conduct a "stress test'' to the galaxy models. My study for this purpose is focused on a field named MQN01, a gas-rich and highly overdense cosmic web node at z~3.2, and has been based on a JWST program dedicated to this field, [JWST-MQN01](https://www.stsci.edu/jwst-program-info/program/?program=1835){:target="_blank"}.
 
