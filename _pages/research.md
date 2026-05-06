@@ -39,7 +39,7 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
 
   <div class="container">
     <div class="image">
-      <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41550-025-02500-2/MediaObjects/41550_2025_2500_Fig1_HTML.png?as=webp">
+      <img src="https://weichenstars.github.io/images/41550_2025_2500_Fig1.webp">
     </div>
     <div class="text">
       <p>We recently discovered a surprisingly large disk in the cosmic web node at z=3.2 using JWST and ALMA. It has an effective radius of around 10 kpc, as large as the Milky Way nowadays (!). This discovery indicates that the cosmic web node hosts favorable physical conditions for disks to form early and fast at high-z. Such conditions may include dissipative mergers and coherent gas accretion. (<a href ="https://doi.org/10.1038/s41550-025-02500-2" target="_blank">Wang et al. 2025</a>; w/ image credits).</p>
@@ -49,7 +49,6 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
 </body>
 
 </div>
-
 
 
 
