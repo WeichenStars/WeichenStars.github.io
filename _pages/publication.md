@@ -9,9 +9,9 @@ Publication
 
 Papers (1st author or with leading contributions):
 
- + [7] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. submitted to A&A (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3*
+ + [7] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. A&A in press (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3*
 
- + [6] &nbsp;X. Wang, S. Cantalupo, **W. Wang**, et al. submitted to A&A (2025, [arXiv: 2511.19608](https://arxiv.org/abs/2511.19608){:target="_blank"}): *Metal enrichment of galaxies in a massive node of the Cosmic Web at z~3*
+ + [6] &nbsp;X. Wang, S. Cantalupo, **W. Wang**, et al. A&A in press (2025, [arXiv: 2511.19608](https://arxiv.org/abs/2511.19608){:target="_blank"}): *Metal enrichment of galaxies in a massive node of the Cosmic Web at z~3*
 
  + [5] &nbsp;**W. Wang**, S. Cantalupo, A. Pensabene et al. Nature Astronomy 9, 710 (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}): *A Giant Disk Galaxy Two Billion Years After The Big Bang*
 
