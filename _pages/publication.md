@@ -9,9 +9,12 @@ Publication
 
 Papers (1st author or with leading contributions):
 
- + [7] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. A&A in press (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3*
+ + [8] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. A&A in press (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3*
 
- + [6] &nbsp;X. Wang, S. Cantalupo, **W. Wang**, et al. A&A in press (2025, [arXiv: 2511.19608](https://arxiv.org/abs/2511.19608){:target="_blank"}): *Metal enrichment of galaxies in a massive node of the Cosmic Web at z~3*
+ + [7] &nbsp;**W. Wang**, S. A. Kassin, S. M. Faber, D. C. Koo, T. M. Heckman et al. submitted to ApJ (2026, [arXiv: 2606.10116](https://arxiv.org/abs/2606.10116){:target="_blank"}):\
+  *The Importance of Galaxy-Wide Star Formation in Driving Winds at z~1*
+
+ + [6] &nbsp;X. Wang, S. Cantalupo, **W. Wang**, et al. A&A in press (2026, [arXiv: 2511.19608](https://arxiv.org/abs/2511.19608){:target="_blank"}): *Metal enrichment of galaxies in a massive node of the Cosmic Web at z~3*
 
  + [5] &nbsp;**W. Wang**, S. Cantalupo, A. Pensabene et al. Nature Astronomy 9, 710 (2025, [doi: 10.1038/s41550-025-02500-2](https://doi.org/10.1038/s41550-025-02500-2){:target="_blank"}): *A Giant Disk Galaxy Two Billion Years After The Big Bang*
 
@@ -25,11 +28,6 @@ Papers (1st author or with leading contributions):
 
  + [1] &nbsp;**W. Wang**, S. M. Faber, F.-S. Liu et al. MNRAS 469, 4063 (2017, [arXiv:1705.05404](https://arxiv.org/abs/1705.05404){:target="_blank"}):\
   *UVI colour gradients of 0.4<z<1.4 star-forming main-sequence galaxies in CANDELS: dust extinction and star formation profiles*
-
-Papers in prep. (1st author):
-
- + [1] &nbsp;**W. Wang**, S. A. Kassin, S. M. Faber, D. C. Koo et al. in prep., to be submitted to ApJ:\
-  *The Roles of Integrated and Resolved Galaxy Star Formation in Driving Winds at $z\sim 1$*
 
 
 There are 95 million Wang in the world. But running exact name matching (=author:'Wang, Weichen') and selecting exclusively the astronomy subfield so far work well to find me: 
