@@ -9,7 +9,7 @@ Publication
 
 Papers (1st author or with leading contributions):
 
- + [8] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. A&A, 711, A84 (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3* ([journal highlight](https://www.aanda.org/component/content/article/214-highlights/2026-highlights/3209-a-quiescent-galaxy-in-a-gas-rich-cosmic-web-node-at-z-3){:target="_blank"})
+ + [8] &nbsp;**W. Wang**, S. Cantalupo, M. Galbiati, et al. A&A, 711, A84 (2026, [arXiv: 2601.20473](https://arxiv.org/abs/2601.20473){:target="_blank"}): *A Quiescent Galaxy in a Gas-Rich Cosmic Web Node at z~3* ([journal highlight](https://www.aanda.org/2026-highlights/3209-a-quiescent-galaxy-in-a-gas-rich-cosmic-web-node-at-z-3){:target="_blank"})
 
  + [7] &nbsp;**W. Wang**, S. A. Kassin, S. M. Faber, D. C. Koo, T. M. Heckman et al. submitted to ApJ (2026, [arXiv: 2606.10116](https://arxiv.org/abs/2606.10116){:target="_blank"}): *The Importance of Galaxy-Wide Star Formation in Driving Winds at z~1*
 
