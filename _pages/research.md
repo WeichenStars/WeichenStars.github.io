@@ -91,8 +91,8 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
 
   <div class="container">
     <div class="text">
-      <p>Interestingly, such kind of early-epoch galaxies are similar to the "Coastal Deserts" on our own planet in many aspects.</p>
-      <p>The illustrative figure on the right is from <a href ="https://chandra.harvard.edu/press/26_releases/press_072126.html" target="_blank">our NASA press release</a>, and shows the Red Potato galaxy and its surrounding environment with labeled features and physical processes (image credits: NASA/CXC/SAO/N. Wolk & P. Edmonds/Univ. Milano-Bicocca/W. Wang et al.).</p>
+      <p>Interestingly, such systems are similar to the "Coastal Deserts" on our own planet in many aspects.</p>
+      <p>The figure on the right is from <a href ="https://chandra.harvard.edu/press/26_releases/press_072126.html" target="_blank">our NASA press release</a>, and labels the Red Potato and its surrounding environment and physical processes (image credits by NASA/CXC/SAO/N. Wolk & P. Edmonds/Univ. Milano-Bicocca/W. Wang et al.).</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redpotato_labeled.jpg">
