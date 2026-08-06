@@ -81,10 +81,21 @@ Galaxies form and evolve in large-scale cosmic environments, which involve dark 
   <div class="container">
     <div class="text">
       <p>Recent studies revealed a surprisingly large number of quiescent galaxies at z>3. How can galaxies stop forming stars so early? Our discovery of a special system adds one clue to this puzzle. The Red Potato galaxy, from the same cosmic node, is found at the center of a 100-kpc reservoir of cool gas traced by LyA (yellow contours). Intriguingly, it is quiescent although close to this source of gas supply. Our multi-facility observations suggest that the quenching is most likely casued by the halt of gas accretion due to the strong CGM turbulence.  (<a href ="https://arxiv.org/abs/2601.20473" target="_blank">Wang et al. 2026</a>).</p>
-      <p>Interestingly, such kind of early-epoch galaxies are similar to the "Coastal Deserts" on our own planet in many aspects.</p>
     </div>
     <div class="image">
       <img src="https://weichenstars.github.io/images/redp_RGB_wLyA.png">
+    </div>
+  </div>
+
+
+
+  <div class="container">
+    <div class="text">
+      <p>Interestingly, such kind of early-epoch galaxies are similar to the "Coastal Deserts" on our own planet in many aspects.</p>
+      <p>The illustrative figure on the right is from <a href ="https://chandra.harvard.edu/press/26_releases/press_072126.html" target="_blank">our NASA press release</a>, and shows the Red Potato galaxy and its surrounding environment with labeled features and physical processes (image credits: NASA/CXC/SAO/N. Wolk & P. Edmonds/Univ. Milano-Bicocca/W. Wang et al.).</p>
+    </div>
+    <div class="image">
+      <img src="https://weichenstars.github.io/images/redpotato_labeled.jpg">
     </div>
   </div>
 
